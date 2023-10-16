@@ -1,0 +1,70 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 10vh;
+}
+.top{
+  margin-top: 2vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.7;
+}
+.who{
+  color: #05bfdb;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.cc{
+  text-align: left;
+  text-justify: auto;
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+.fourth-banner{
+  margin-top: 10vh;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  background-color: #05bfdb;
+  margin-top: 2vh;
+  text-align: left;
+  text-justify: auto;
+  font-size: 0.8rem;
+}
+@media (max-width: 1200px) {
+  .header{
+    font-size: 0.8rem;
+    gap: 5%;
+  }
+  .logo{
+    width: 70%;
+    height: 70%;
+  }
+  button{
+    padding: 1%;
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+  .cpd{
+    font-size: 5rem;
+  }
+  .ansh{
+    height: 50%;
+    width: 50%;
+  }
+  .sp{
+    height: 8vh;
+    width: 20vh;
+    font-size: 1.5rem;
+    border-radius: 2vh;
+  }
+
+}

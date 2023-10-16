@@ -1,0 +1,13 @@
+:root{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: #05bfdb;
+    border: #05bfdb;
+    border-radius: 1vh;
+}
+a{
+    text-decoration: none;
+}
