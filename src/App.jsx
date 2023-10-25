@@ -13,7 +13,7 @@ export default function Header(){
                 <div className="">ABOUT</div>
                 <div className="">PROJECTS</div>
                 <div className="">BLOG</div>
-                <a href="https://www.instagram.com/reel/CtmC0DWPidR/?igshid=M2MyMzgzODVlNw=="><button>Join Now</button></a>
+                <a href="https://youtu.be/dQw4w9WgXcQ?si=fKaMi-l889waLgAK"><button className='kuku'>Join Now</button></a>
             </div>
             <div className="cpd top">ACROSS</div>
             <div className="cpd top">THE  TECH</div>
@@ -42,6 +42,10 @@ export default function Header(){
                 <div className="top"> Proficient in HTML, CSS, Javascript, React, Node, Express, Mongo-DB, Solidity, React-Native, Kotlin, Flutter, Electron, Rust, Python</div>
                 <div className="top who"> Joyal Jijo</div>
                 <div className="top  cc">Rookie</div>
+                <div className="top who"> Pulkit Garg</div>
+                <div className="top cc">Contributor</div>
+                <div className="top who">Harshit Gupta</div>
+                <div className="top cc">Volunteer</div>
             </div>
             <div className="fourth-banner">
                 <div className="top who cc">So what are you waiting for ?</div>
