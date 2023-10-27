@@ -20,7 +20,7 @@ export default function Header(){
             <div className="first-banner">
                 <div className="top who">WHO ARE WE ?</div>
                 <div className="top">
-                    We are one and only official <br/>Cross Platform Development Society of MAIT
+                    We are one and only official <br/>Cross Platform Development Socity of MAIT
                 </div>
             </div>
             <div className="second-banner">
@@ -34,10 +34,11 @@ export default function Header(){
                 <div className="top"><img src={ansh}  className="ansh" alt=""/></div>
                 <div className="top who"> Anshul Santoshi</div>
                 <div className="top  cc">(Founder)</div>
-                <div className="top who cc"> Chief Cross Platform Developer</div>
+                <div className="top who cc"> Cheif Cross Platform Developer</div>
+                <div className="top cc"> Highly Inetelligent Bloodline </div>
                 <a href="https://www.linkedin.com/in/anshul-santoshi-0b9b99285/"><div className="top "><img src={linked} className="linkedin" alt=""/></div></a>
 
-                <div className="top">Got 50 Cr. package off-campus <br/> Works with Overseas Clients <br/> Highly Intelligent Bloodline </div>
+                <div className="top">Got 50 Cr. package off-campus <br/> Works with Overseas Clients </div>
                 <div className="top">Inquisitive, Energetic, skilled in leadership, with a strong foundation in math, logic and cross-platform coding</div>
                 <div className="top"> Proficient in HTML, CSS, Javascript, React, Node, Express, Mongo-DB, Solidity, React-Native, Kotlin, Flutter, Electron, Rust, Python</div>
                 <div className="top who"> Joyal Jijo</div>
